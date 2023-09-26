@@ -1,8 +1,9 @@
 """
-Pytorch implementation of MultiAttention 1D CNN (MA1DCNN) by Wang et al.
+Pytorch implementation of MultiAttention 1D CNN (MA1DCNN)
+
 Understanding and Learning Discriminant
 Features based on Multiattention 1DCNN for
-Wheelset Bearing Fault Diagnosis
+Wheelset Bearing Fault Diagnosis, Wang et al.
 
 https://ieeexplore.ieee.org/document/8911240
 """
